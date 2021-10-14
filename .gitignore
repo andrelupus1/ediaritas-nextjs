@@ -32,6 +32,4 @@ yarn-error.log*
 
 # vercel
 .vercel
-
-#Archive zip
 *.zip
